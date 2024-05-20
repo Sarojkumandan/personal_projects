@@ -69,7 +69,6 @@ We welcome contributions to improve the project! Here's how you can contribute:
 - Submit a pull request with a clear description of your contribution.
 
 ## Credits
-- Project Members: Rami Reddy Kancharla, Ashok Sai Doredla.
 - Dataset Source: Kaggle
 - Libraries: TensorFlow, OpenCV, NumPy, etc.
 
