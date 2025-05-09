@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ashoksaidoredlaumbc](https://github.com/ashoksaidoredlaumbc)
 
-- 📫 How to reach me **ashoksd1@umbc.edu**
+- 📫 How to reach me **doredlaashoksai@gmail.com**
 
 <p align="left">
 </p>
