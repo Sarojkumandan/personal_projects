@@ -1,5 +1,4 @@
 wearenv310/
-config/
 test.html
 *.pyc
 __pycache__/
